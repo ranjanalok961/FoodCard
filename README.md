@@ -4,8 +4,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 ## ScreenShots
-
-![WhatsApp Image 2024-02-07 at 23 42 34_1279c078](https://github.com/ranjanalok961/FoodCard/assets/103888844/9fe11204-1ed0-4902-acbe-9dd6f21f281a)
+<img src="https://https://github.com/ranjanalok961/FoodCard/assets/103888844/9fe11204-1ed0-4902-acbe-9dd6f21f281a" width="100" height="100">
 ![WhatsApp Image 2024-02-07 at 23 42 34_7c36e0e9](https://github.com/ranjanalok961/FoodCard/assets/103888844/ec0965db-8977-4240-97d3-08fffa72e762)
 ![WhatsApp Image 2024-02-07 at 23 42 36_28fe78ec](https://github.com/ranjanalok961/FoodCard/assets/103888844/666f6877-16c3-45d2-9da3-9d1e02459b15)
 ![WhatsApp Image 2024-02-07 at 23 42 38_135ec2a6](https://github.com/ranjanalok961/FoodCard/assets/103888844/a821d89c-eb2f-4071-94e6-9a57263bf271)
