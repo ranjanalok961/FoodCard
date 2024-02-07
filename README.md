@@ -3,6 +3,14 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## ScreenShots
+
+![WhatsApp Image 2024-02-07 at 23 42 34_1279c078](https://github.com/ranjanalok961/FoodCard/assets/103888844/9fe11204-1ed0-4902-acbe-9dd6f21f281a)
+![WhatsApp Image 2024-02-07 at 23 42 34_7c36e0e9](https://github.com/ranjanalok961/FoodCard/assets/103888844/ec0965db-8977-4240-97d3-08fffa72e762)
+![WhatsApp Image 2024-02-07 at 23 42 36_28fe78ec](https://github.com/ranjanalok961/FoodCard/assets/103888844/666f6877-16c3-45d2-9da3-9d1e02459b15)
+![WhatsApp Image 2024-02-07 at 23 42 38_135ec2a6](https://github.com/ranjanalok961/FoodCard/assets/103888844/a821d89c-eb2f-4071-94e6-9a57263bf271)
+![WhatsApp Image 2024-02-07 at 23 42 37_34e27306](https://github.com/ranjanalok961/FoodCard/assets/103888844/4217b4ff-6271-4dc4-b8c7-732eb4a31eeb)
+![WhatsApp Image 2024-02-07 at 23 42 33_f6d50ac6](https://github.com/ranjanalok961/FoodCard/assets/103888844/43432b46-38a0-49f0-a258-8bad716b637b)
 
 ## Step 1: Start the Metro Server
 
