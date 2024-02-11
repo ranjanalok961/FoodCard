@@ -4,12 +4,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 ## ScreenShots
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/15a10e00-33b9-407d-9e89-4eee7e4edb1f" width="200" height="600">
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/ec0965db-8977-4240-97d3-08fffa72e762" width="200" height="600">
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/666f6877-16c3-45d2-9da3-9d1e02459b15" width="200" height="600">
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/a821d89c-eb2f-4071-94e6-9a57263bf271" width="200" height="600">
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/4217b4ff-6271-4dc4-b8c7-732eb4a31eeb" width="200" height="600">
-<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/43432b46-38a0-49f0-a258-8bad716b637b" width="200" height="600">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/15a10e00-33b9-407d-9e89-4eee7e4edb1f" width="200" height="500">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/ec0965db-8977-4240-97d3-08fffa72e762" width="200" height="500">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/666f6877-16c3-45d2-9da3-9d1e02459b15" width="200" height="500">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/a821d89c-eb2f-4071-94e6-9a57263bf271" width="200" height="500">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/4217b4ff-6271-4dc4-b8c7-732eb4a31eeb" width="200" height="500">
+<img src="https://github.com/ranjanalok961/FoodCard/assets/103888844/43432b46-38a0-49f0-a258-8bad716b637b" width="200" height="500">
 
 ## Step 1: Start the Metro Server
 
